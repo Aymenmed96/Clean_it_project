@@ -1,1 +1,1 @@
-P
+Print ('hello dsti')
